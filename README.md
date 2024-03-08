@@ -25,7 +25,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
 
@@ -74,12 +74,12 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 There are multiple places you can share your solution:
 
-1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
+1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community).
 2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 3. Share your solution on other social channels like LinkedIn.
 4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback.
 
 The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
@@ -90,3 +90,81 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+---
+
+Product
+
+Overview
+Pricing
+Marketplace
+Features
+Integrations
+
+Company
+
+About
+Team
+Blog
+Careers
+
+Connect
+
+Contact
+Newsletter
+LinkedIn
+
+Login
+Sign Up
+
+A modern publishing platform
+Grow your audience and build your online brand
+
+Start for Free
+Learn More
+
+Designed for the future
+
+Introducing an extensible editor
+Blogr features an exceedingly intuitive interface which lets you focus on one thing: creating content.
+The editor supports management of multiple blogs and allows easy manipulation of embeds such as images,
+videos, and Markdown. Extensibility with plugins and themes provide easy ways to add functionality or
+change the looks of a blog.
+
+Robust content management
+Flexible content management enables users to easily move through posts. Increase the usability of your blog
+by adding customized categories, sections, format, or flow. With this functionality, you’re in full control.
+
+State of the Art Infrastructure
+With reliability and speed in mind, worldwide data centers provide the backbone for ultra-fast connectivity.
+This ensures your site will load instantly, no matter where your readers are, keeping your site competitive.
+
+Free, open, simple
+Blogr is a free and open source application backed by a large community of helpful developers. It supports
+features such as code syntax highlighting, RSS feeds, social media integration, third-party commenting tools,
+and works seamlessly with Google Analytics. The architecture is clean and is relatively easy to learn.
+
+Powerful tooling
+Batteries included. We built a simple and straightforward CLI tool that makes customization and deployment a breeze, but
+capable of producing even the most complicated sites.
+
+Product
+
+Overview
+Pricing
+Marketplace
+Features
+Integrations
+
+Company
+
+About
+Team
+Blog
+Careers
+
+Connect
+
+Contact
+Newsletter
+LinkedIn
