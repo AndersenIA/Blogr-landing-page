@@ -334,3 +334,46 @@ html {
   position: absolute;
   margin-left: -17rem;
 }
+
+/**********************************************************************************/
+/**********************************************************************************/
+/*FOOTER SECTION*/
+/**********************************************************************************/
+/**********************************************************************************/
+
+.footer-div {
+  margin-top: 25rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: 27rem;
+  border-radius: 0 5rem 0 0;
+  background-color: hsl(240, 10%, 16%);
+  padding-inline: 15rem;
+  padding-top: 4rem;
+}
+
+.footer-heading {
+  color: white;
+  font-size: 2rem;
+}
+
+.footer-category {
+  display: flex;
+  flex-direction: column;
+  height: 20rem;
+  padding-top: 1rem;
+}
+
+.footer-sub-heading {
+  color: white;
+  font-weight: 500;
+  margin-bottom: 2.3rem;
+}
+
+.footer-links {
+  color: white;
+  text-decoration: none;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  font-weight: 100;
+}
